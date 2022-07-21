@@ -37,8 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jung16537.github.io/test_blog2",
-  "devDependencies": {
+    "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "https://jung16537.github.io/test_blog2"
 }
