@@ -27,7 +27,7 @@ function App() {
                 let copy = [...good]
                 copy[i] = copy[i]+1
                 regood(copy)
-                }}>:미소짓는_상기된_얼굴:</span> {good[i]} </p>
+                }}>😊</span> {good[i]} </p>
               <p className='date'>2월 17일 발행 </p>
               <button onClick={()=>{
                 let copy = [...listNmae]
